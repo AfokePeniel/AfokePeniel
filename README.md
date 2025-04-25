@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ### I'm Afoke Peniel Oghenekowho  
-**DevOps Engineer | Cloud Enthusiast | RedHat Certified System Administrator**
+**DevOps Engineer | RedHat Certified System Administrator**
 
 ---
 
