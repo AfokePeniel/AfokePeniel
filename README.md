@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ### I'm Afoke Peniel Oghenekowho  
-**DevOps Engineer | Cloud Enthusiast | Python Developer**
+**DevOps Engineer | Cloud Enthusiast | RedHat Certified System Administrator**
 
 ---
 
@@ -17,7 +17,7 @@ Here’s a little about me:
 - **🛠️ Skills That Keep Me Busy:**
   
   - **Containerization:** Kubernetes ☸️, Docker 🐳
-  - **Monitoring Systems:** Prometheus 📊, Grafana 📈, ELK Stack (Kibana) 🔍
+  - **Monitoring Systems:** Prometheus 📊, Grafana 📈, Datadog 🔍
   - **Infrastructure as Code (IaC):** Terraform 🌍
   - **Configuration Management:** Ansible ⚙️
   - **Cloud Platforms:** AWS ☁️, GCP 🌐, Azure 💻
