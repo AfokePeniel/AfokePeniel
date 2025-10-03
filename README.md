@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ### I'm Afoke Peniel Oghenekowho  
-**DevOps Engineer | RedHat Certified System Administrator**
+**DevOps Engineer | Redhat Certified Engineer | RedHat Certified System Administrator**
 
 ---
 
@@ -12,7 +12,7 @@ Here’s a little about me:
 
 - **💼 Professionally:** I bring 2+ years of hands-on experience in DevOps, working with tools like Docker 🐳, Kubernetes ☸️, and Terraform 🌍 to design scalable and secure infrastructures across AWS ☁️, GCP 🌐, and Azure 💻.
   
-- **🏆 Certifications:** Proud holder of the **HashiCorp Certified Terraform Associate**, **AWS Certified Cloud Practitioner**, ** **RedHat Certified System Administrator**** and a postgraduate certificate in **Cloud Computing**.
+- **🏆 Certifications:** Proud holder of the **HashiCorp Certified Terraform Associate**, **AWS Certified Cloud Practitioner**, ** ** Redhat Certified Engineer ** **RedHat Certified System Administrator**** and a postgraduate certificate in **Cloud Computing**.
 
 - **🛠️ Skills That Keep Me Busy:**
   
