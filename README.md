@@ -16,8 +16,8 @@ Here’s a little about me:
 
 - **🛠️ Skills That Keep Me Busy:**
   
-  - **Containerization:** Kubernetes ☸️, Docker 🐳
-  - **Monitoring Systems:** Prometheus 📊, Grafana 📈, Datadog 🔍
+  - **Containerization:** Kubernetes ☸️, Docker , Podman🐳
+  - **Monitoring Systems:** Prometheus 📊, Grafana 📈, Zabbix 🔍
   - **Infrastructure as Code (IaC):** Terraform 🌍
   - **Configuration Management:** Ansible ⚙️
   - **Cloud Platforms:** AWS ☁️, GCP 🌐, Azure 💻
@@ -26,7 +26,7 @@ Here’s a little about me:
   - **Databases:** MySQL 🗄️
   - **Programming and Scripting Languages:** Bash Scripting 🖋️, Python 🐍
   - **Operating Systems:** RedHat 🐧, CentOS 🎛️, Ubuntu 🛡️
-  - **Agile Tool:** Jira 📌
+  - **Agile Tool:** Jira, Confluence 📌
 
 ---
 
