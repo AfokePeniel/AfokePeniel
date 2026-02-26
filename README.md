@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ### I'm Afoke Peniel Oghenekowho  
-**DevOps Engineer | Redhat Certified Engineer | RedHat Certified System Administrator**
+**DevOps Engineer | Redhat Certified Engineer | RedHat Certified System Administrator | Redhat Certified Specialist in Containers **
 
 ---
 
